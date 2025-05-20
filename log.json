@@ -1,0 +1,759 @@
+[
+  {
+    "status": "success",
+    "text": "Image processed: 640x427",
+    "timestamp": "2025-04-05T10:53:04.915677"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 1440x1790",
+    "timestamp": "2025-04-05T10:53:53.520168"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:16:53.554240"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:17:09.741375"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:17:36.063164"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:17:56.115524"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:18:12.628638"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:18:55.194782"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:19:11.494019"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:19:27.790510"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:19:44.139935"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:20:34.695280"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:27:55.300065"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-06T23:28:09.275733"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:46:23.952385"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:46:39.689528"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:46:56.635368"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:47:15.134950"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:47:30.818954"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:47:48.178541"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:48:04.535038"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:49:10.879421"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T12:51:03.318569"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:14:44.923301"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:14:57.946888"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:15:08.057323"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:15:11.671291"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:15:28.347434"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:15:32.511455"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:26:47.951728"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:26:56.310443"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:27:01.448110"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:35:10.993397"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:35:34.324224"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:35:40.344037"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:35:48.892051"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:36:59.921517"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T14:37:04.528105"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:39:51.520608"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:40:07.138696"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:40:23.726320"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:40:39.381438"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:40:57.106460"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:41:18.010311"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:42:01.939604"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:42:17.800314"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:43:24.665340"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:43:46.378334"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:44:49.130642"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:45:04.424592"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:45:13.515696"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:45:44.793870"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:45:50.508372"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:45:54.687103"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:46:00.712893"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:46:09.009100"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:46:14.545655"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:46:30.204174"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:46:46.089208"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:47:01.657862"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:50:32.718389"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:52:34.650452"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:52:46.126166"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:53:01.693071"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:53:17.357236"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:53:38.282106"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:56:06.770446"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:56:22.334741"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:56:38.059107"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:56:55.157098"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-07T19:57:10.726590"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-08T01:51:58.663421"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-08T01:53:46.655552"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:08:35.595621"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:08:51.467428"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:09:07.259219"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:09:25.585842"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:09:44.200450"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:22:49.724286"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:23:08.342301"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:23:23.805236"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:23:39.471040"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:23:55.173555"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:24:11.217876"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:24:27.393662"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:24:43.575317"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:24:59.138730"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:25:15.726098"
+  },
+  {
+    "status": "success",
+    "text": "Image processed: 640x480",
+    "timestamp": "2025-04-10T02:25:48.575918"
+  },
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  {
+    "timestamp": "2025-04-11 10:29:35",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 10:32:56",
+    "text": "~DL 7CQ 1939",
+    "score": 0.5461358184516811
+  },
+  {
+    "timestamp": "2025-04-11 10:35:19",
+    "text": "D.7CQ 1939",
+    "score": 0.3360403484500161
+  },
+  {
+    "timestamp": "2025-04-11 10:36:40",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 10:37:40",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 10:39:04",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 10:39:38",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 10:42:12",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 10:42:47",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:08:20",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:08:53",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:09:24",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:12:31",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:13:38",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:15:22",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:16:10",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:17:05",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:17:32",
+    "text": "DL ZCQ 1939",
+    "score": 0.5321568318590464
+  },
+  {
+    "timestamp": "2025-04-11 11:18:09",
+    "text": "DL ZCO 1939",
+    "score": 0.47086350059790966
+  },
+  {
+    "timestamp": "2025-04-11 11:18:39",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:19:14",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:19:38",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:20:02",
+    "text": "[S 08 FM 8888",
+    "score": 0.715438437501056
+  },
+  {
+    "timestamp": "2025-04-11 11:20:38",
+    "text": "[S 08 FM 8888",
+    "score": 0.6942267609735939
+  },
+  {
+    "timestamp": "2025-04-11 11:21:01",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:21:21",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:21:43",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:22:19",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:22:39",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:22:58",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:23:23",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:23:45",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:24:07",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:24:41",
+    "text": "L",
+    "score": 0.7492177342920172
+  },
+  {
+    "timestamp": "2025-04-11 11:25:22",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-11 11:34:19",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:40:59",
+    "text": "TS",
+    "score": 0.37218120733314386
+  },
+  {
+    "timestamp": "2025-04-14 12:41:33",
+    "text": "TS OBFM B889",
+    "score": 0.3703157194426045
+  },
+  {
+    "timestamp": "2025-04-14 12:42:08",
+    "text": "TS QB FH 8888",
+    "score": 0.3164111310837376
+  },
+  {
+    "timestamp": "2025-04-14 12:42:40",
+    "text": "TS 08 FN 8888",
+    "score": 0.42267829145591224
+  },
+  {
+    "timestamp": "2025-04-14 12:43:48",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:44:20",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:44:54",
+    "text": "MHZODV2J66 !",
+    "score": 0.4577488108953604
+  },
+  {
+    "timestamp": "2025-04-14 12:45:26",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:45:57",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:46:30",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:47:01",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:48:40",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:49:12",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:49:46",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:50:19",
+    "text": "GJO3ERO56 3",
+    "score": 0.36437088966086256
+  },
+  {
+    "timestamp": "2025-04-14 12:50:51",
+    "text": "6JO 3ERO56 3|",
+    "score": 0.4018205435635242
+  },
+  {
+    "timestamp": "2025-04-14 12:51:22",
+    "text": "6JO 3ERO563",
+    "score": 0.5847323892503287
+  },
+  {
+    "timestamp": "2025-04-14 12:51:54",
+    "text": "KKZ3ABB",
+    "score": 0.36856724865636237
+  },
+  {
+    "timestamp": "2025-04-14 12:52:26",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:52:58",
+    "text": "HH;X",
+    "score": 0.42512333393096924
+  },
+  {
+    "timestamp": "2025-04-14 12:53:28",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-14 12:53:45",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-17 15:06:28",
+    "text": "DL7CO 1939",
+    "score": 0.8079769626642307
+  },
+  {
+    "timestamp": "2025-04-17 15:08:25",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-17 15:09:34",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-04-17 15:10:46",
+    "text": "DLZCO 1939",
+    "score": 0.77783408836254
+  },
+  {
+    "timestamp": "2025-04-17 15:12:27",
+    "text": "DL ZC0 1939",
+    "score": 0.4301729832676287
+  },
+  {
+    "timestamp": "2025-05-15 08:03:07",
+    "text": "DL 7C0 1939",
+    "score": 0.6329735166041407
+  },
+  {
+    "timestamp": "2025-05-15 09:51:00",
+    "text": "DL ZCQ 1939",
+    "score": 0.7082745317092037
+  },
+  {
+    "timestamp": "2025-05-15 10:13:32",
+    "text": "TS 08 FH B888",
+    "score": 0.30364406867629584
+  },
+  {
+    "timestamp": "2025-05-15 10:15:56",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-05-15 12:36:49",
+    "text": "DLZCO 1939",
+    "score": 0.6978636268646354
+  },
+  {
+    "timestamp": "2025-05-15 12:39:44",
+    "text": "License plate not detected"
+  },
+  {
+    "timestamp": "2025-05-15 12:40:11",
+    "text": "M[",
+    "score": 0.3056890510198012
+  }
+]
