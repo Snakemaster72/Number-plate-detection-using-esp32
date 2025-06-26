@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Model weights (YOLOv5/YOLOv8, etc.)
+*.pt
+*.weights
+*.onnx
+
+# OS-specific files
+.DS_Store
+
